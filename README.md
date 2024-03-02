@@ -1,5 +1,3 @@
-## HI I AM FATHIMA!
-Aspiring software student, passionate about design (graphic, game, web). Driven by creativity and bringing ideas to life. Eager to combine tech skills with design flair for impactful solutions. Highly motivated team player, always learning and contributing.
 
 
 

@@ -6,9 +6,8 @@ Software Developer
 
 Aspiring software development student at 42 Abu Dhabi, passionate about design (graphic, game, web). Driven by creativity and bringing ideas to life. Eager to combine tech skills with design flair for impactful solutions.
 
-* 🌍  I'm based in Abu Dhabi
 * ✉️  You can contact me at [f4thimaa@gmail.com](mailto:f4thimaa@gmail.com)
-* 🧠  I'm learning C, C++, C# and Python
+* 🧠  I'm learning C, C++, HTML, CSS and JS
 
 ### Skills
 
